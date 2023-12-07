@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Three.js**
 
-- 💬 Ask me about **react.js next.js wordpress shopify express.js javascript typescript tailwind**
+- 💬 Ask me about **react.js, next.js, wordpress, shopify, express.js, javascript, typescript, tailwind**
 
 - 📫 How to reach me **harish.geekpeek@gmail.com**
 
